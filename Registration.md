@@ -1,10 +1,12 @@
-### Name-  
+# REGISTRATION PAGE  
+## Student can register using:-
+### *Name-* 
 
-### Email-  
+###  *Email-*  
 
-### Phone-  
+### *Phone-* 
 
-### Password-
+### *Password-*
 
 
 
